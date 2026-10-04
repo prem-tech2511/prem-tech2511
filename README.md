@@ -1,9 +1,9 @@
 <!-- Replace every prem-tech2511 / YourName with your own details -->
 
-<h1 align="center">Hi, I'm Prem Suryawanhsi 👋</h1>
+<h1 align="center">Hi, I'm Prem Suryawanshi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer;Docker+%26+Jenkins+Learner;Building+Cool+Projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+CI/CD+Java+Developer;Docker+%26+Jenkins+Learner;Building+Cool+Projects" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -15,7 +15,8 @@
 - 🎓 B.Tech student
 - 🔭 Working on: Docker, Jenkins, Java projects
 - 🌱 Learning: DevOps and computer vision
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/YOUR_LINK) · [Email](mailto:you@example.com)
+- 📫 Reach me: [LinkedIn]www.linkedin.com/in/premsuryawanshi2511
+Vanity URL name · [Email](premr2005@gmail.com)
 
 ## 🛠️ Tech stack
 
@@ -23,8 +24,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ## 📊 GitHub stats
