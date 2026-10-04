@@ -1,6 +1,6 @@
-<!-- Replace every YOUR_USERNAME / YourName with your own details -->
+<!-- Replace every prem-tech2511 / YourName with your own details -->
 
-<h1 align="center">Hi, I'm Prem Suryawanshi 👋</h1>
+<h1 align="center">Hi, I'm Prem Suryawanhsi 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer;Docker+%26+Jenkins+Learner;Building+Cool+Projects" alt="Typing animation" />
@@ -15,7 +15,7 @@
 - 🎓 B.Tech student
 - 🔭 Working on: Docker, Jenkins, Java projects
 - 🌱 Learning: DevOps and computer vision
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/YOUR_LINK) · [Email]premr2005@gmail.com.
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/YOUR_LINK) · [Email](mailto:you@example.com)
 
 ## 🛠️ Tech stack
 
@@ -30,25 +30,27 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prem-tech2511&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-tech2511&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=prem-tech2511&theme=tokyonight" />
 </p>
 
 ## 🚀 Featured projects
 
 | Project | Description |
 |---|---|
-| [Online Reservation System](https://github.com/YOUR_USERNAME/REPO) | Java Swing + JDBC train booking with PNR and cancellation |
-| [ATM Interface](https://github.com/YOUR_USERNAME/REPO) | Java ATM simulation |
-| [Online Examination System](https://github.com/YOUR_USERNAME/REPO) | Exam platform with login and scoring |
-| [Docker Web Server](https://github.com/YOUR_USERNAME/REPO) | Web server deployed in Docker containers |
+| [Online Reservation System](https://github.com/prem-tech2511/REPO) | Java Swing + JDBC train booking with PNR and cancellation |
+| [ATM Interface](https://github.com/prem-tech2511/REPO) | Java ATM simulation |
+| [Online Examination System](https://github.com/prem-tech2511/REPO) | Exam platform with login and scoring |
+| [Docker Web Server](https://github.com/prem-tech2511/REPO) | Web server deployed in Docker containers |
 
 ## 🐍 Contribution snake (optional)
 
 <!-- Needs the Platane/snk GitHub Action, see steps below -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/prem-tech2511/prem-tech2511/output/github-contribution-grid-snake.svg" alt="snake" />
+
+
 
