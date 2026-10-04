@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Prem Suryawanshi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+CI/CD+Java+Developer;Docker+%26+Jenkins+Learner;Building+Cool+Projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+CI/CD;+Java+Developer;Docker+%26+Jenkins+Learner;Building+Cool+Projects" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 - 🔭 Working on: Docker, Jenkins, Java projects
 - 🌱 Learning: DevOps and computer vision
 - 📫 Reach me: [LinkedIn]www.linkedin.com/in/premsuryawanshi2511
-Vanity URL name · [Email](premr2005@gmail.com)
+Vanity URL name · [Email]premr2005@gmail.com
 
 ## 🛠️ Tech stack
 
